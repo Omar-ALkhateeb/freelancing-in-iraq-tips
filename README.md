@@ -32,7 +32,7 @@ resources to help you:
 
 ## Personal tips
 
-### 1 - how do yopu know if you're up for this project?
+### 1 - how do you know if you're up for this project?
  - have you worked on a project with that scale before?
  - can you visualize how the main parts of the project would work?
  - can you find an existing project code that has the same functionality? and can you manage that project? 
